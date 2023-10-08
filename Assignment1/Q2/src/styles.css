@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* 
+https://dw3i9sxi97owk.cloudfront.net/homepageRevampA3/HeroImage/instance-2/hero-instance-2--desktop.webp 
+
+<script>
+    
+    const mobileMenuBtn = document.querySelector("button.mobile-menu-button");
+    const mobileMenu = document.querySelector(".mobile-menu");
+
+    mobileMenuBtn.addEventListener("click", () => {
+      mobileMenu.classList.toggle("hidden");
+    });
+
+    
+    const menuBtn = document.querySelector("button.menu-button");
+    const menu = document.querySelector(".crazy");
+
+    menuBtn.addEventListener("click", () => {
+      menu.classList.toggle("hidden");
+    });
+</script>
+
+  </body>
+</html>
+
+*/
